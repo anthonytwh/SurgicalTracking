@@ -1,3 +1,3 @@
 # SurgicalTracking
 
-Mechanical Tracking of a six-sensor robotic arm using Arduino.
+Mechanical Tracking of a robotic-arm assisted surgical tool using Arduino and vPython.
