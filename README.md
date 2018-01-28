@@ -1,6 +1,6 @@
 # SurgicalTracking
 
-Mechanical Tracking of a robotic-arm assisted surgical tool using Arduino and vPython.
+Mechanical Tracking of a robotic-arm assisted surgical tool calculated by DH-Method using Hall Sensors and vPython physics library.
 
 
 
